@@ -1,0 +1,18 @@
+{
+    "name": "tiendamdq/mdq",
+    "description": "tiendamdq",
+    "authors": [
+        {
+            "name": "ferreyraemanuel",
+            "email": "mamels-1409@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "tiendamdq\\database\\" : ["database/connection","database/config"]
+        }
+    },
+    "require": {
+      "ext-pdo": "*"
+    }
+}
