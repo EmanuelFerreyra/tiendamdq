@@ -9,7 +9,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "tiendamdq\\database\\" : ["database/connection","database/config"]
+            "tiendamdq\\database\\" : ["database/connection","database/config"],
+            "tiendamdq\\controller\\" : "src/controller"
         }
     },
     "require": {

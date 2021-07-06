@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5237f318-dd0b-4c3b-aaf9-1ab58018f54a" name="Default Changelist" comment="" />
+    <list default="true" id="5237f318-dd0b-4c3b-aaf9-1ab58018f54a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tienda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tienda.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +44,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ujihDQVy51QAer0WO2O9onk56V" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,6 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -41,17 +69,37 @@
       <updated>1625185516105</updated>
       <workItem from="1625185517289" duration="283000" />
       <workItem from="1625185891540" duration="892000" />
+      <workItem from="1625531207997" duration="3294000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="493" y="121" key="FileChooserDialogImpl" timestamp="1625185668228">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
     <state x="493" y="121" key="FileChooserDialogImpl/0.0.1422.760@0.0.1422.760" timestamp="1625185668228" />
+    <state x="3960" y="560" key="NewPhpClassDialog" timestamp="1625532454324">
+      <screen x="3200" y="339" width="1920" height="999" />
+    </state>
+    <state x="3960" y="560" key="NewPhpClassDialog/0.0.1422.760/3200.339.1920.999@3200.339.1920.999" timestamp="1625532454324" />
+    <state x="3994" y="761" key="NewPhpFileDialog" timestamp="1625533001799">
+      <screen x="3200" y="339" width="1920" height="999" />
+    </state>
+    <state x="3994" y="761" key="NewPhpFileDialog/0.0.1422.760/3200.339.1920.999@3200.339.1920.999" timestamp="1625533001799" />
     <state x="245" y="50" key="SettingsEditor" timestamp="1625186198015">
       <screen x="0" y="0" width="1422" height="760" />
     </state>

@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/database/connection" isTestSource="false" packagePrefix="tiendamdq\database\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/controller" isTestSource="false" packagePrefix="tiendamdq\controller\" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
     </content>
     <orderEntry type="inheritedJdk" />
