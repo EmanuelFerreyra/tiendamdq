@@ -7,6 +7,8 @@ $view = new ControllerClient();
 
 $direction = '../components/';
 
+
+# Define the view
 $view->dir($direction)->view('header');
 $view->dir($direction)->view('navbar');
 $view->dir($direction)->view('carousel');
