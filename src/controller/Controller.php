@@ -22,4 +22,9 @@ class controller
         return include $this->view;
     }
 
+    public function redirect( $url ){
+        header('Location: '.$url);
+        exit;
+    }
+
 }
